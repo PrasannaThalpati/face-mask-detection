@@ -1,5 +1,5 @@
 
-# Face Mask Detect
+# Face Mask Detection
 
 Face Mask Detector which detects the person either wearing a mask or not.
 
